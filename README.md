@@ -16,7 +16,7 @@ A powerful automation tool that fetches GitHub and LinkedIn data to keep your re
 - **Section Validation**: Checks for missing critical sections like Education, Experience, and Skills.  
 - **ATS Score Breakdown**: Provides individual scores for Content, Formatting, Skills, and Style using weighted calculations.  
 
-## 🛠Tech Stack  
+## Tech Stack  
 
 - **Python** (3.8+)  
 - **Flask** (for API handling and UI integration)  
