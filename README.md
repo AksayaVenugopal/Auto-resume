@@ -1,12 +1,11 @@
 # Auto Resume Updater & ATS Score Calculator  
 
-A powerful automation tool that fetches GitHub and LinkedIn data to keep your resume updated while also evaluating its ATS (Applicant Tracking System) score for job applications.  
+A powerful automation tool that fetches GitHub data to keep your resume updated while also evaluating its ATS (Applicant Tracking System) score for job applications.  
 
 
 
 ###  Auto Resume Updater  
-- **GitHub API Integration**: Fetches repository details including name, URL, languages, stars, and descriptions using the GitHub REST API.  
-- **LinkedIn Scraper (via RapidAPI)**: Extracts job positions, certifications, languages, and projects from a LinkedIn profile.  
+- **GitHub API Integration**: Fetches repository details including name, URL, languages, stars, and descriptions using the GitHub REST API.    
 - **LaTeX Resume Automation**: Updates an Overleaf LaTeX template dynamically with the fetched data using Jinja2 templating.  
 - **JSON Data Caching**: Stores API responses locally to prevent excessive API calls during testing and debugging.  
 
